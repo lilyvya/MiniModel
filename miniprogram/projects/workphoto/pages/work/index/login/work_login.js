@@ -9,6 +9,7 @@ Page({
 	data: {
 		phone: '',
 		pwd: '',
+		isshow:false,
 	},
 
 	/**
